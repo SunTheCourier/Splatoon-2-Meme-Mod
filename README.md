@@ -13,7 +13,7 @@
 **EUes<br>**
 **EUfr<br>**
 **EUit<br>**
-**EUl<br>**
+**EUnl<br>**
 **EUru<br>**
 **JPja<br>**
 **USes<br>**
