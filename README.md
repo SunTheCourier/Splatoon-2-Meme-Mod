@@ -36,7 +36,7 @@ If the audio doesn't sound looped properly or doesn't play properly or if text i
 ## How to Contribute
 Create a fork and edit the files!
 
-**MSBT Editor Reloaded **: https://github.com/IcySon55/3DLandMSBTeditor/releases
+**MSBT Editor Reloaded**: https://github.com/IcySon55/3DLandMSBTeditor/releases
 
 **Audio Converter**: https://github.com/slashiee/StreamTool
 
