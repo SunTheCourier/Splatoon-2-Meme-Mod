@@ -39,3 +39,4 @@ If the audio doesn't sound looped properly or doesn't play properly or if text i
 **Discord: @Sun#7988  = 130825292292816897**<br>
 **Discord: @TechWizard#0270 = 164755188937261058**<br>
 **Everyone who submitted midi renames in the [Splatoon Modding Hub](https://discordapp.com/invite/Msk4nSj).**
+**Everyone who has sumbitted PRs to this Git**
