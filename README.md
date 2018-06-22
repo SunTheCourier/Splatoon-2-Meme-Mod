@@ -15,7 +15,7 @@
 **EUit<br>**
 **EUl<br>**
 **EUru<br>**
-**Jpja<br>**
+**JPja<br>**
 **USes<br>**
 **USfr<br>**
 
@@ -33,10 +33,17 @@ Message=Text
 
 ## Bugs
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
+## How to Contribute
+Create a fork and edit the files!
+
+**MSBT Editor Reloaded **: https://github.com/IcySon55/3DLandMSBTeditor/releases
+
+**Audio Converter**: https://github.com/slashiee/StreamTool
+
 ## Credits
 
 **Discord: @Stay off my cock#6239  = 128656451236397056**<br>
 **Discord: @Sun#7988  = 130825292292816897**<br>
 **Discord: @TechWizard#0270 = 164755188937261058**<br>
-**Everyone who submitted midi renames in the [Splatoon Modding Hub](https://discordapp.com/invite/Msk4nSj).**
+**Everyone who submitted midi renames in the [Splatoon Modding Hub](https://discordapp.com/invite/Msk4nSj).**<br>
 **Everyone who has sumbitted PRs to this Git**
