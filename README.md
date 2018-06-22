@@ -4,7 +4,7 @@
 
 **1.** Install LayeredFS, if you do not know hot to look up videos on youtube (may or may not work.)
 
-**2.** place game files under /atmoshphere/1003bc0000a0000/romfs/ (Or whatever title id for your version of the game, do note the ROM hack has been done in US English so file names will need to be changed.)
+**2.** place game files under /atmosphere/1003bc0000a0000/romfs/ (Or whatever title id for your version of the game, do note the ROM hack has been done in US English so file names will need to be changed.)
 
 **2b.** replace USen at the end of CommonMsg_USen.szs to your lanuage (same goes for LayoutMsg_USen)<br>
 **Possible File Languages**<br>
