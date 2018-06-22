@@ -1,2 +1,5 @@
-# Splatoon-2-Meme-ROM-hack
-Splatoon 2 ROM hack about memes &amp; shit.
+## Credits
+
+@Stay off my cock#6239  = 128656451236397056
+@Sun#7988  = 130825292292816897
+@TechWizard#0270 = 164755188937261058
