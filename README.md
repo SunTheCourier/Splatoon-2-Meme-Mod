@@ -35,9 +35,13 @@ Message=Text
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
 
 ## How to Contribute
-Create a fork and edit the files, be as specify as you can when you send a PR!
+Create a fork and edit the files, be as specific as you can when you send a PR!
 
-**MSBT Editor Reloaded**: https://github.com/IcySon55/3DLandMSBTeditor/releases
+**Tools**:
+
+**Wexo's Toolbox (SZS Repacker and Extractor)**: http://wiki.tockdom.com/wiki/Wexos%27s_Toolbox
+
+**MSBT Editor Reloaded (Text Editor)**: https://github.com/IcySon55/3DLandMSBTeditor/releases
 
 **Audio Converter**: https://github.com/slashiee/StreamTool
 
