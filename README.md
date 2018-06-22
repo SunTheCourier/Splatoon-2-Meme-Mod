@@ -32,7 +32,7 @@ Sound=Music<br>
 Message=Text
 
 ## Bugs
-If the audio doesn't sound looped properly or doesn't play properly, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
+If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
 ## Credits
 
 **Discord: @Stay off my cock#6239  = 128656451236397056**<br>
