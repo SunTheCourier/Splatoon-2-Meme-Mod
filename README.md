@@ -26,7 +26,7 @@
 
 
 ## ROM Section Removal
-### If you want to remove a part of the mod delete the apporiate folder.
+### If you want to remove a part of the mod delete the appropriate folder.
 
 Sound=Music<br>
 Message=Text
