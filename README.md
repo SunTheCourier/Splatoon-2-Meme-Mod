@@ -1,6 +1,6 @@
 # Splatoon 2 meme ROM hack
 ## How to Install
-#### DISCLAIMER: WE DO NOT TAKE ANY RESPONABLITY FOR WHAT HAPPENS TO YOUR SWITCH WHEN YOU ATTEMPT TO INSTALL THIS MOD.
+#### DISCLAIMER: WE DO NOT TAKE ANY RESPONSIBILITY FOR WHAT HAPPENS TO YOUR SWITCH WHEN YOU ATTEMPT TO INSTALL THIS MOD.
 
 **1.** Install LayeredFS, if you do not know hot to look up videos on youtube (may or may not work.)
 
