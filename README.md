@@ -2,7 +2,7 @@
 ## How to Install
 #### DISCLAIMER: WE DO NOT TAKE ANY RESPONSIBILITY FOR WHAT HAPPENS TO YOUR SWITCH WHEN YOU ATTEMPT TO INSTALL THIS MOD.
 
-**1.** Install LayeredFS, if you do not know hot to look up videos on youtube (may or may not work.)
+**1.** Install LayeredFS, if you do not know how to look up videos on youtube (may or may not work.)
 
 **2.** place game files under /atmosphere/1003bc0000a0000/romfs/ (Or whatever title id for your version of the game, do note the ROM hack has been done in US English so file names will need to be changed.)
 
