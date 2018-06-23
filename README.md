@@ -43,7 +43,9 @@ Create a fork and edit the files, be as specific as you can when you send a PR!
 
 **MSBT Editor Reloaded (Text Editor)**: https://github.com/IcySon55/3DLandMSBTeditor/releases
 
-**Audio Converter**: https://github.com/slashiee/StreamTool
+**Modified VGAudio for BFSTM**: https://github.com/shadowninja108/VGAudio
+
+**Modified Looping Auddio Converter for BFSTM**: https://github.com/shadowninja108/LoopingAudioConverter
 
 ## Credits
 
