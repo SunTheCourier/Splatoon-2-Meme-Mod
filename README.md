@@ -75,7 +75,9 @@ Create a fork and edit the files, be as specific as you can when you send a PR!
 
 ****Modified Looping Audio Converter for BFSTM****: https://github.com/shadowninja108/LoopingAudioConverter
 
+****Foobar (Audio Player)****: https://www.foobar2000.org/download
 
+****vgmstream decoder(Foobar Plugin to play VG formats)****: https://www.foobar2000.org/components/view/foo_input_vgmstream
 
 ## Credits
 
