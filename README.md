@@ -5,7 +5,7 @@
 
 
 ****1.**** Install LayeredFS.<br>
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/"Titleid"/romfs/ , where "Titleid" is the title id for your region. You can find a list below.<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"Titleid"/romfs/ , where "Titleid" is the title id for your region. You can find a list below.<br>
 
 
 
