@@ -71,9 +71,9 @@ Create a fork and edit the files, be as specific as you can when you send a PR!
 
 ****MSBT Editor Reloaded (Text Editor)****: https://github.com/IcySon55/3DLandMSBTeditor/releases
 
-****Modified VGAudio for BFSTM****: https://github.com/shadowninja108/VGAudio
+****Modified VGAudio for Switch BFSTM****: https://github.com/shadowninja108/VGAudio
 
-****Modified Looping Audio Converter for BFSTM****: https://github.com/shadowninja108/LoopingAudioConverter
+****Modified Looping Audio Converter for Switch BFSTM****: https://github.com/shadowninja108/LoopingAudioConverter
 
 ****Foobar (Audio Player)****: https://www.foobar2000.org/download
 
