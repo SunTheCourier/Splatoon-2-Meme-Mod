@@ -63,6 +63,7 @@ If the audio doesn't sound looped properly or doesn't play properly or if text i
 
 Create a fork and edit the files, be as specific as you can when you send a PR!
 
+****Note for editing text: If you are going to modify a one line message to a two line message, skip two lines.****
 
 
 ****Tools****:
