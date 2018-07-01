@@ -80,6 +80,8 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 ****Discord: @Stay off my cock#6239  = 128656451236397056****<br>
 ****Discord: @Sun#7988  = 130825292292816897****<br>
-****Discord: @TechWizard#0270 = 164755188937261058****<br>
+****Discord: @TechWizard#0270 (sheev with a shiv) = 164755188937261058****<br>
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who has sumbitted PRs to this Git**
+
+note from the text editor dude: ey wassup i just wanna say thanks for installing this mod and stuff. the news dialog was a bitch to edit.
