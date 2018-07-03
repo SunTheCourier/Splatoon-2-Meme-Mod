@@ -1,7 +1,6 @@
 
 *.szs
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/Coop_Env.bfstm
-Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/Coop_Env.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/LastKing_PreMusic.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/Plaza00_a.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm
@@ -39,7 +38,6 @@ Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Matching
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Matching_Versus_Others.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission01_Blitz_Bossa.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission01_Blitz_Bossa_LCP.bfstm
-Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission01_Blitz_Bossa_Minigame.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission01_Gambit.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission01_Gambit_Last.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission02_Blitz_Maji.bfstm
@@ -109,21 +107,3 @@ Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_World.bf
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_World_1stTime_Demo.bfstm
 Meme ROM Hack Release/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_World_Minigame.bfstm
 Meme ROM Hack Release/BU/01003bc0000a0000/exefs/main
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Versus02.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Versus03.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Versus05.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Versus06.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Versus07.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Versus10.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_VersusLast1min.bfstm
-Meme ROM Hack Release/BU/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_VersusStartDemo.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/LastKing_PreMusic.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_LastBoss1.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_LastBoss1_Minigame.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_LastBoss2.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_LastBoss2_Minigame.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission_LastBossCamera1.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Mission_LastBossCamera2.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_Shiokara2017.bfstm
-Meme ROM Hack Release/review copy/01003bc0000a0000/romfs/Sound/Resource/Stream/STRM_World.bfstm
-Meme ROM Hack Release/review copy/Review Copy.7z
