@@ -11,7 +11,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 ****1.**** Install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"Titleid"/romfs/ , where "Titleid" is the title id for your region. You can find a list below.<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. You can find a list below.<br>
 
 
 
@@ -42,14 +42,6 @@ USfr
 ****4.**** Profit.
 
 
-## ROM Section Removal
-
-### If you want to remove a part of the mod, delete the appropriate folder.
-
-Sound=Music<br>
-Message=Text
-
-
 ## Bugs
 
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
@@ -73,7 +65,7 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 ****Foobar (Audio Player)****: https://www.foobar2000.org/download
 
-****vgmstream decoder (Foobar Plugin to play VG formats)****: https://www.foobar2000.org/components/view/foo_input_vgmstream
+****vgmstream decoder (Foobar2000 Plugin to play VG formats)****: https://www.foobar2000.org/components/view/foo_input_vgmstream
 
 
 ## Credits
@@ -83,5 +75,3 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 ****Discord: @TechWizard#0270 = 164755188937261058****<br>
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who has submitted PRs to this Git**
-
-Note from the text editor dude: Ey wassup I just wanna say thanks for installing this mod and stuff. The news dialog was a bitch to edit.
