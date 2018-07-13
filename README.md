@@ -11,7 +11,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 ****1.**** Install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. You can find a list below.<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one.)<br>
 
 
 
