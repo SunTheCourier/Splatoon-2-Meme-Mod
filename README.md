@@ -15,14 +15,18 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 
 
-    JPN: 01003C700009C000
-    EUR: 0100F8F0000A2000
-    USA: 01003BC0000A0000
+    JPN: 01003c700009c000
+    OE JPN: ???
+    EUR: 0100f8f0000a2000
+    OE EUR: 0100f8f0000a3065
+    USA: 01003bc0000a0000
+    OE USA: 01003bc0000a1065
+
 
 
 Please note that this pack has been done in English, so filenames will need to be changed for other regions.
 
-****2b.**** Replace USen at the end of CommonMsg_USen.szs and LayoutMsg_USen.szs to your language. You can find a list below of available. (This will not change what language this mod is displayed in.)<br>
+****2b.**** Replace USen at the end of CommonMsg_USen.release.szs and LayoutMsg_USen.release.szs to your language. You can find a list below of available. (This will not change what language this mod is displayed in.)<br>
 
 ```
 EUde
