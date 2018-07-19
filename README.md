@@ -11,7 +11,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 ****1.**** Install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one.)<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one. **Do not use if you do not own Octo Expansion.**)<br>
 
 
 
@@ -57,13 +57,11 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 ****Tools****:
 
-****Wexo's Toolbox (SZS Repacker and Extractor)****: http://wiki.tockdom.com/wiki/Wexos%27s_Toolbox
+****SARC-tool (SZS Repacker and Extractor)****: https://github.com/aboood40091/SARC-Tool
 
 ****MSBT Editor Reloaded (Text Editor)****: https://github.com/IcySon55/3DLandMSBTeditor/releases
 
-****Modified VGAudio for Switch BFSTM****: https://github.com/shadowninja108/VGAudio
-
-****Modified Looping Audio Converter for Switch BFSTM****: https://github.com/shadowninja108/LoopingAudioConverter
+****Modified Looping Audio Converter for Switch BFSTM's****: https://github.com/shadowninja108/LoopingAudioConverter
 
 ****Foobar (Audio Player)****: https://www.foobar2000.org/download
 
