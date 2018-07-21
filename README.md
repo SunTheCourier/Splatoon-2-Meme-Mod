@@ -16,7 +16,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 
     JPN: 01003c700009c000
-    OE JPN: ???
+    OE JPN: 01003c700009d065
     EUR: 0100f8f0000a2000
     OE EUR: 0100f8f0000a3065
     USA: 01003bc0000a0000
