@@ -11,7 +11,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 ****1.**** Install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one. **Do not use if you do not own Octo Expansion.**)<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) or compile yourself from source and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one. **Do not use if you do not own Octo Expansion.**)<br>
 
 
 
@@ -24,7 +24,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 
 
-Please note that this pack has been done in English, so filenames will need to be changed for other regions.
+Please note that this pack has been done in US English, so filenames will need to be changed for other regions.
 
 ****2b.**** Replace USen at the end of CommonMsg_USen.release.szs and LayoutMsg_USen.release.szs to your language. You can find a list below of available. (This will not change what language this mod is displayed in.)<br>
 
