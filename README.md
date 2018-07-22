@@ -70,11 +70,15 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 ## Compiling from source
 
-****1.**** Run ``` git clone --recursive https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack.git ``` in the terminal.
+****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack.git ``` in the terminal.
 
-****2.**** Click Compile.bat (It is not DEVCompile.bat, this is to create and zip a release with 7zip standalone console version.)
+****2.**** Run ``` git clone https://github.com/aboood40091/SARC-Tool.git ``` inside /Splatoon-2-Meme-ROM-hack/.
 
-****3.**** The Compiled version should be in /Release/.
+****3.**** Install any dependencies you may need (ex: SarcLib or libyaz0)
+
+****3.**** Click Compile.bat (It is not DEVCompile.bat, this is to create and zip a release with 7zip standalone console version.)
+
+****4.**** The Compiled version should be in /Release/.
 
 ## Credits
 
