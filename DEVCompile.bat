@@ -15,4 +15,4 @@ xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\zip\TitleID\Romfs\Sou
 7z\7za.exe a -tzip -mx9 Release\OE-Sound.zip ./Release/zip/*
 RMDIR /S /Q Release\zip
 echo done!
-pausec
+pause
