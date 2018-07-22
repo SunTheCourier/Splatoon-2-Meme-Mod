@@ -68,6 +68,14 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 ****vgmstream decoder (Foobar2000 Plugin to play VG formats)****: https://www.foobar2000.org/components/view/foo_input_vgmstream
 
 
+## Compiling from source
+
+****1.**** Run ``` git clone --recursive https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack.git ``` in the terminal.
+
+****2.**** Click Compile.bat (It is not DEVCompile.bat, this is to create and zip a release with 7zip standalone console version.)
+
+****3.**** The Compiled version should be in /Release/.
+
 ## Credits
 
 ****Discord: @Shadów#6239  = 128656451236397056****<br>
