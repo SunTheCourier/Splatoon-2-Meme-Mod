@@ -1,6 +1,6 @@
 
 *.szs
-Release/*
+Release/
 *.7z
-7z/*
+7z/
 SARC-Tool/
