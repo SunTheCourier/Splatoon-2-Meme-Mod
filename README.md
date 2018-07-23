@@ -76,7 +76,29 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 ****3.**** Install any dependencies you may need (ex: SarcLib or libyaz0)
 
-****3.**** Click Compile.bat (It is not DEVCompile.bat, this is to create and zip a release with 7zip standalone console version.)
+****3.**** Run ``` Compile.bat (title region) (text language)``` (It is not DEVCompile.bat, this is to create and zip a release with 7zip standalone console version.)
+
+Possible title regions:
+```
+USA
+JPN
+EUR
+```
+
+Possible text languages:
+```
+EUde
+EUen
+EUes
+EUfr
+EUit
+EUnl
+EUru
+JPja
+USes
+USen
+USfr
+```
 
 ****4.**** The Compiled version should be in /Release/.
 
