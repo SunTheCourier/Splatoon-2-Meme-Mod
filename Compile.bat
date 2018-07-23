@@ -44,7 +44,6 @@ move 01003bc0000a0000\Romfs\Message\CommonMsg_USen.release.szs Release/%Base%/Ro
 xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\%Base%\Romfs\Sound\Resource\Stream
 xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\%DLC%\Romfs\Sound\Resource\Stream
 echo done!
-pause
 exit /B 1
 :no_reg
 echo Specify a region.
