@@ -1,4 +1,5 @@
 version: 0.{build}
+skip_non_tags: true
 shallow_clone: true
 install:
 - cmd: git clone https://github.com/aboood40091/SARC-Tool.git
@@ -35,6 +36,10 @@ artifacts:
 - path: Release\MSG
 deploy:
 - provider: GitHub
+  release: Release
   description: Look at the commits for changes!
   auth_token:
     secure: vLwFTNRDrmuLa3BmVeOz2jZ6VpebmEnEckcMq3i6aY/VmgkXs4P10l3TR6aFZbQD
+  draft: false
+  prerelease: true
+  force_update: false
