@@ -110,5 +110,6 @@ USfr
 ****Discord: @Shadów#6239  = 128656451236397056****<br>
 ****Discord: @Sun#7988  = 130825292292816897****<br>
 ****Discord: @TechWizard#0270 = 164755188937261058****<br>
+****GomiHiko for their [Splat2Hypesquid Mod](https://github.com/GomiHiko/Splat2Hypesquid)****
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who has submitted PRs to this Git**
