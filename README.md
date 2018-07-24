@@ -70,6 +70,9 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 ## Compiling from source
 
+Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack or build it yourself.
+
+### Building it Yourself
 ****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack.git ``` in the terminal.
 
 ****2.**** Run ``` git clone https://github.com/aboood40091/SARC-Tool.git ``` inside /Splatoon-2-Meme-ROM-hack/.
