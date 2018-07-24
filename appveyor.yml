@@ -1,12 +1,9 @@
 version: 0.{build}
-skip_non_tags: true
 shallow_clone: true
 install:
 - cmd: git clone https://github.com/aboood40091/SARC-Tool.git
 build_script:
 - cmd: >-
-    @echo off
-
     py -m pip install SarcLib
 
     py -m pip install libyaz0
@@ -28,18 +25,8 @@ build_script:
     xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\Sound\TitleID\Romfs\Sound\Resource\Stream
 
     xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
-
-    echo done!
 artifacts:
 - path: Release\OE-Sound
 - path: Release\Sound
 - path: Release\MSG
-deploy:
-- provider: GitHub
-  release: Release
-  description: Look at the commits for changes!
-  auth_token:
-    secure: vLwFTNRDrmuLa3BmVeOz2jZ6VpebmEnEckcMq3i6aY/VmgkXs4P10l3TR6aFZbQD
-  draft: false
-  prerelease: true
-  force_update: false
+deploy: off
