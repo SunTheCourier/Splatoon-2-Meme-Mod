@@ -1,0 +1,40 @@
+version: 0.{build}
+shallow_clone: true
+install:
+- cmd: git clone https://github.com/aboood40091/SARC-Tool.git
+build_script:
+- cmd: >-
+    @echo off
+
+    py -m pip install SarcLib
+
+    py -m pip install libyaz0
+
+    py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
+
+    py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
+
+    mkdir Release\MSG\TitleID\Romfs\Message
+
+    mkdir Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
+
+    mkdir Release\Sound\TitleID\Romfs\Sound\Resource\Stream
+
+    move 01003bc0000a0000\Romfs\Message\LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
+
+    move 01003bc0000a0000\Romfs\Message\CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
+
+    xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\Sound\TitleID\Romfs\Sound\Resource\Stream
+
+    xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
+
+    echo done!
+artifacts:
+- path: Release\OE-Sound
+- path: Release\Sound
+- path: Release\MSG
+deploy:
+- provider: GitHub
+  description: Look at the commits for changes!
+  auth_token:
+    secure: vLwFTNRDrmuLa3BmVeOz2jZ6VpebmEnEckcMq3i6aY/VmgkXs4P10l3TR6aFZbQD
