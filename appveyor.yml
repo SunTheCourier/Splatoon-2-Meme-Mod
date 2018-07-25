@@ -12,7 +12,7 @@ build_script:
 
     py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 
-    mkdir Release\MSG\TitleID\Romfs\Model
+    mkdir Release\Model\TitleID\Romfs\Model
     
     mkdir Release\MSG\TitleID\Romfs\Message
 
