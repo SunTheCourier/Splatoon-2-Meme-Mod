@@ -55,11 +55,13 @@ If the audio doesn't sound looped properly or doesn't play properly or if text i
 
 Create a fork and edit the files, be as specific as you can when you send a PR!<br>
 
+Note when editing News: Making sure to keep the mood of the text the same to keep the in game reaction the same. (We currently do not know how to edit the reactions in game.)
+
 ****Tools****:
 
 ****SARC-tool (SZS Repacker and Extractor)****: https://github.com/aboood40091/SARC-Tool
 
-****MSBT Editor Reloaded (Text Editor)****: https://github.com/IcySon55/3DLandMSBTeditor/releases
+****MSBT Editor Reloaded (Text Editor)****: https://github.com/IcySon55/3DLandMSBTeditor
 
 ****Modified Looping Audio Converter for Switch BFSTM's****: https://github.com/shadowninja108/LoopingAudioConverter
 
