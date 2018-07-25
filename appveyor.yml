@@ -1,4 +1,4 @@
-version: AppVeyor Commit {build}
+version: AppVeyor build {build}
 shallow_clone: true
 install:
 - cmd: >-
