@@ -1,4 +1,4 @@
-version: Commit {build}
+version: Build {build}
 shallow_clone: true
 install:
 - cmd: git clone https://github.com/aboood40091/SARC-Tool.git
@@ -13,7 +13,7 @@ build_script:
     py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 
     mkdir Release\Model\TitleID\Romfs\Model
-    
+
     mkdir Release\MSG\TitleID\Romfs\Message
 
     mkdir Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
@@ -25,7 +25,7 @@ build_script:
     move 01003bc0000a0000\Romfs\Message\CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
     xcopy 01003bc0000a0000\Romfs\Model Release\Model\TitleID\Romfs\Model
-    
+
     xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\Sound\TitleID\Romfs\Sound\Resource\Stream
 
     xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
