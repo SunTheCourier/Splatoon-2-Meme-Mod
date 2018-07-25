@@ -1,4 +1,4 @@
-version: Build {build}
+version: AppVeyor Build {build}
 shallow_clone: true
 install:
 - cmd: git clone https://github.com/aboood40091/SARC-Tool.git
