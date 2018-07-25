@@ -37,12 +37,14 @@ GOTO invalid2
 py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
 py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 mkdir Release\%Base%\Romfs\Message
+mkdir Release\%Base%\Romfs\Model
 mkdir Release\%Base%\Romfs\Sound\Resource\Stream
 mkdir Release\%DLC%\Romfs\Sound\Resource\Stream
 move 01003bc0000a0000\Romfs\Message\LayoutMsg_USen.release.szs Release/%Base%/Romfs/Message/LayoutMsg_%lang%.release.szs
 move 01003bc0000a0000\Romfs\Message\CommonMsg_USen.release.szs Release/%Base%/Romfs/Message/CommonMsg_%lang%.release.szs
 xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\%Base%\Romfs\Sound\Resource\Stream
 xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\%DLC%\Romfs\Sound\Resource\Stream
+xcopy 01003bc0000a1065\Romfs\Model Release\%Base%\Romfs\Model
 echo done!
 exit /B 1
 :no_reg
