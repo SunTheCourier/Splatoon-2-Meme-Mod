@@ -24,7 +24,7 @@ build_script:
 
     move 01003bc0000a0000\Romfs\Message\CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
-    xcopy 01003bc0000a0000\Romfs\Model Release\Sound\TitleID\Romfs\Model
+    xcopy 01003bc0000a0000\Romfs\Model Release\Model\TitleID\Romfs\Model
     
     xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\Sound\TitleID\Romfs\Sound\Resource\Stream
 
