@@ -50,6 +50,8 @@ USfr
 
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
 
+Any issue pertaining to install should be sent over to the [Splatoon Modding Hub]( https://discord.gg/5k4msvP).
+
 
 ## How to Contribute
 
