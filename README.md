@@ -63,7 +63,7 @@ Note when editing News: Making sure to keep the mood of the text the same to kee
 
 ****SARC-tool (SZS Repacker and Extractor)****: https://github.com/aboood40091/SARC-Tool
 
-****MSBT Editor Reloaded (Text Editor)****: https://github.com/IcySon55/3DLandMSBTeditor
+****Kuriimu (Text Editor)****: https://github.com/IcySon55/Kuriimu
 
 ****Modified Looping Audio Converter for Switch BFSTM's****: https://github.com/shadowninja108/LoopingAudioConverter
 
