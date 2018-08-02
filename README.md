@@ -1,4 +1,4 @@
-# Splatoon 2 Meme ROM hack
+# Splatoon 2 Meme Mod
 [![Build status](https://ci.appveyor.com/api/projects/status/svijpy7a6uk0ou36?svg=true)](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack)
 
 ## Contents!
@@ -11,7 +11,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 ****1.**** Install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/releases) or compile yourself from source and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one. **Do not use if you do not own Octo Expansion.**)<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/releases) or compile yourself from source and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one. **Do not use if you do not own Octo Expansion.**)<br>
 
 
 
@@ -77,9 +77,9 @@ Note when editing News: Making sure to keep the mood of the text the same to kee
 Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack or build it yourself.
 
 ### Building it Yourself
-****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack.git ``` in the terminal.
+****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-Mod.git ``` in the terminal.
 
-****2.**** Run ``` git clone https://github.com/aboood40091/SARC-Tool.git ``` inside /Splatoon-2-Meme-ROM-hack/.
+****2.**** Run ``` git clone https://github.com/aboood40091/SARC-Tool.git ``` inside /Splatoon-2-Meme-Mod/.
 
 ****3.**** Install any dependencies you may need (ex: SarcLib or libyaz0)
 
