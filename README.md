@@ -1,5 +1,5 @@
 # Splatoon 2 Meme Mod
-[![Build status](https://ci.appveyor.com/api/projects/status/svijpy7a6uk0ou36?svg=true)](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack)
+[![Build status](https://ci.appveyor.com/api/projects/status/4kug5sj28xg3c5t4?svg=true)](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod)
 
 ## Contents!
 
