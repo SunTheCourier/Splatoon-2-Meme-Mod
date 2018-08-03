@@ -31,8 +31,6 @@ build_script:
 
     xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
 artifacts:
-- path: Release\OE-Sound
-- path: Release\Sound
 - path: Release\MSG
 - path: Release\Model
 deploy: off
