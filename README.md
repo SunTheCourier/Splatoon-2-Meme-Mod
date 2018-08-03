@@ -59,18 +59,6 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 
 Note when editing News: Making sure to keep the mood of the text the same to keep the in game reaction the same. (We currently do not know how to edit the reactions in game.)
 
-****Tools****:
-
-****SARC-tool (SZS Repacker and Extractor)****: https://github.com/aboood40091/SARC-Tool
-
-****Kuriimu (Text Editor)****: https://github.com/IcySon55/Kuriimu
-
-****Modified Looping Audio Converter for Switch BFSTM's****: https://github.com/shadowninja108/LoopingAudioConverter
-
-****Foobar (Audio Player)****: https://www.foobar2000.org/download
-
-****vgmstream decoder (Foobar2000 Plugin to play VG formats)****: https://www.foobar2000.org/components/view/foo_input_vgmstream
-
 
 ## Compiling from source
 
