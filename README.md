@@ -104,6 +104,8 @@ USfr
 ## Discord:
 ****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c
 ****Splatoon Modding Hub****: https://discord.gg/5k4msvP
+
+
 ## Credits
 
 ****Discord: @Shadów#6239  = 128656451236397056****<br>
