@@ -107,5 +107,5 @@ USfr
 **Everyone who actively submits PRs to this Git**
 
 ## Meme Mod Development Discord Link:
-**Make sure to read the rules.
+**Make sure to read the rules.**
 https://discord.gg/QwhsR7c
