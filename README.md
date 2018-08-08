@@ -106,6 +106,6 @@ USfr
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who actively submits PRs to this Git**
 
-## Splatoon Modding Hub Discord Link:
+## Meme Mod Development Discord Link:
 **Make sure to read the rules.
 https://discord.gg/QwhsR7c
