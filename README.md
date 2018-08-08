@@ -62,7 +62,7 @@ Note when editing News: Making sure to keep the mood of the text the same to kee
 
 ## Compiling from source
 
-Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack or build it yourself.
+Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod or build it yourself.
 
 ### Building it Yourself
 ****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-Mod.git ``` in the terminal.
@@ -105,3 +105,7 @@ USfr
 ****GomiHiko for their [Splat2Hypesquid Mod](https://github.com/GomiHiko/Splat2Hypesquid)****
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who actively submits PRs to this Git**
+
+## Meme Mod Development Discord Link:
+**Make sure to read the rules.**
+https://discord.gg/QwhsR7c
