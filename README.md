@@ -62,7 +62,7 @@ Note when editing News: Making sure to keep the mood of the text the same to kee
 
 ## Compiling from source
 
-Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack or build it yourself.
+Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod or build it yourself.
 
 ### Building it Yourself
 ****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-Mod.git ``` in the terminal.
