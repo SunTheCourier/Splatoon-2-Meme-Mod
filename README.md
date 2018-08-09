@@ -63,7 +63,7 @@ You can find more info in [CONTRIBUTING.md](https://github.com/SunTheCourier/Spl
 
 ## Compiling from source
 
-Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod or build it yourself.
+Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack or build it yourself.
 
 ### Building it Yourself
 
