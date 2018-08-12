@@ -2,14 +2,14 @@ version: AppVeyor build {build}
 shallow_clone: true
 image: Ubuntu
 install:
-- cmd: >-
+- sh: >-
     git clone https://github.com/aboood40091/SARC-Tool.git
 
     sudo python pip install SarcLib
 
     sudo python pip install libyaz0
 build_script:
-- cmd: >-
+- sh: >-
     python -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
 
     py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
