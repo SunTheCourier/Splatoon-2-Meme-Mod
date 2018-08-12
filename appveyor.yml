@@ -1,35 +1,36 @@
 version: AppVeyor build {build}
 shallow_clone: true
+image: Ubuntu
 install:
 - cmd: >-
     git clone https://github.com/aboood40091/SARC-Tool.git
 
-    py -m pip install SarcLib
+sudo python pip install SarcLib
 
-    py -m pip install libyaz0
+sudo python pip install libyaz0
 build_script:
 - cmd: >-
-    py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
+    python -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
 
     py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 
-    mkdir Release\MSG\TitleID\Romfs\Message
+    mkdir Release/MSG/TitleID/Romfs/Message
 
-    mkdir Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
+    mkdir Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir Release\Sound\TitleID\Romfs\Sound\Resource\Stream
+    mkdir Release/Sound/TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir Release\Model\TitleID\Romfs\Model
+    mkdir Release/Model/TitleID/Romfs/Model
 
-    move 01003bc0000a0000\Romfs\Message\LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
+    move 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
 
-    move 01003bc0000a0000\Romfs\Message\CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
+    move 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
-    xcopy 01003bc0000a0000\Romfs\Sound\Resource\Stream Release\Sound\TitleID\Romfs\Sound\Resource\Stream
+    move 01003bc0000a0000/Romfs/Sound/Resource/Stream Release/Sound/TitleID/Romfs/Sound/Resource/Stream
 
-    xcopy 01003bc0000a0000\Romfs\Model Release\Model\TitleID\Romfs\Model
+    move 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs/Model
 
-    xcopy 01003bc0000a1065\Romfs\Sound\Resource\Stream Release\OE-Sound\TitleID\Romfs\Sound\Resource\Stream
+    move 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
 artifacts:
 - path: Release\MSG
 - path: Release\Model
