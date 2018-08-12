@@ -14,23 +14,23 @@ build_script:
 
     py -3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 
-    mkdir Release/MSG/TitleID/Romfs/Message
+    mkdir -p Release/MSG/TitleID/Romfs/Message
 
-    mkdir Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir Release/Sound/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/Sound/TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir Release/Model/TitleID/Romfs/Model
+    mkdir -p Release/Model/TitleID/Romfs/Model
 
-    move 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
+    mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
 
-    move 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
+    mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
-    move 01003bc0000a0000/Romfs/Sound/Resource/Stream Release/Sound/TitleID/Romfs/Sound/Resource/Stream
+    mv 01003bc0000a0000/Romfs/Sound/Resource/Stream Release/Sound/TitleID/Romfs/Sound/Resource/Stream
 
-    move 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs/Model
+    mv 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs/Model
 
-    move 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
+    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
 artifacts:
 - path: Release\MSG
 - path: Release\Model
