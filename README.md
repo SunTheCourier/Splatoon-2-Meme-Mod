@@ -74,7 +74,7 @@ Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mo
 
 ****3.**** Install any dependencies you may need (ex: SarcLib or libyaz0)
 
-****3.**** Run ``` Compile.bat (title region) (text language)``` (It is not DEVCompile.bat, this is to create and zip a release with 7zip standalone console version.)
+****3.**** Run ``` Compile.bat (title region) (text language)```
 
 Possible title regions:
 ```
@@ -102,7 +102,7 @@ USfr
 
 
 ## Discord:
-****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c
+****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c<br>
 ****Splatoon Modding Hub****: https://discord.gg/5k4msvP
 
 
@@ -111,7 +111,6 @@ USfr
 ****Discord: @Shadów#6239  = 128656451236397056****<br>
 ****Discord: @Sun#7988  = 130825292292816897****<br>
 ****Discord: @TechWizard#0270 = 164755188937261058****<br>
-****GomiHiko for their [Splat2Hypesquid Mod](https://github.com/GomiHiko/Splat2Hypesquid)****
+****GomiHiko for their [Splat2Hypesquid Mod](https://github.com/GomiHiko/Splat2Hypesquid)****<br>
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who actively submits PRs to this Git**
-
