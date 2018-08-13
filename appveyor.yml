@@ -7,9 +7,9 @@ install:
 
     sudo apt install python3
 
-    pip3 install SarcLib
+    sudo pip3 install SarcLib
 
-    pip3 install libyaz0
+    sudo pip3 install libyaz0
 build_script:
 - sh: >-
     python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
