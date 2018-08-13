@@ -5,8 +5,8 @@ install:
 - sh: >-
     git clone https://github.com/aboood40091/SARC-Tool.git
 
-    sudo apt install python2
-    
+    sudo apt install python3
+
     sudo python3 -m pip install SarcLib
 
     sudo python3 -m pip install libyaz0

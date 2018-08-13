@@ -7,6 +7,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 
 ## How to Install
+
 #### DISCLAIMER: WE DO NOT TAKE ANY RESPONSIBILITY FOR WHAT HAPPENS TO YOUR SWITCH. PLEASE ONLY USE THIS MOD IF YOU KNOW WHAT YOU ARE DOING. IF YOU DO NOT KNOW WHAT YOU ARE DOING PLEASE WAIT UNTIL LAYEREDFS IS COMPLETED. USING LAYEREDFS IN ITS CURRENT STATE CAN INCREASE CHANCES OF A BAN.
 
 ****1.**** Install LayeredFS.<br>
@@ -50,21 +51,23 @@ USfr
 
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
 
-Any issue pertaining to install should be sent over to the [Splatoon Modding Hub]( https://discord.gg/5k4msvP).
+Any issue pertaining to install should be sent over to the [Splatoon Modding Hub](https://discord.gg/5k4msvP).
 
 
 ## How to Contribute
 
 Create a fork and edit the files, be as specific as you can when you send a PR!<br>
 
-Note when editing News: Making sure to keep the mood of the text the same to keep the in game reaction the same. (We currently do not know how to edit the reactions in game.)
+You can find more info in [CONTRIBUTING.md](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/blob/master/CONTRIBUTING.md)
 
 
 ## Compiling from source
 
-Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-rom-hack or build it yourself.
+Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod or build it yourself.
+
 
 ### Building it Yourself
+
 ****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-Mod.git ``` in the terminal.
 
 ****2.**** Run ``` git clone https://github.com/aboood40091/SARC-Tool.git ``` inside /Splatoon-2-Meme-Mod/.
@@ -97,6 +100,12 @@ USfr
 
 ****4.**** The Compiled version should be in /Release/.
 
+
+## Discord:
+****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c
+****Splatoon Modding Hub****: https://discord.gg/5k4msvP
+
+
 ## Credits
 
 ****Discord: @Shadów#6239  = 128656451236397056****<br>
@@ -106,6 +115,3 @@ USfr
 ****Everyone who submitted midi renames in the**** [**Splatoon Modding Hub**](https://discordapp.com/invite/Msk4nSj)<br>
 **Everyone who actively submits PRs to this Git**
 
-## Meme Mod Development Discord Link:
-**Make sure to read the rules.**
-https://discord.gg/QwhsR7c
