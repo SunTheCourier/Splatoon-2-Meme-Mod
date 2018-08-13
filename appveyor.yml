@@ -5,7 +5,10 @@ install:
 - sh: >-
     git clone https://github.com/aboood40091/SARC-Tool.git
 
+
     sudo apt install python3
+
+    sudo apt install python3-pip
 
     sudo pip3 install SarcLib
 
