@@ -36,17 +36,17 @@ build_script:
 
     mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/sub/TitleID/Romfs/Sound/Resource
 
-    cd Release/OE-Sound/sub
+    cd ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub
 
-    zip -9  OE-Sound *
+    zip -9 -r OE-Sound *
 
-    cd Release/Sound/sub
+    cd ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub
 
-    zip -9  Sound *
+    zip -9 -r Sound *
 
-    curl --upload-file -Outfile OE-Sound.txt Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
+    curl --upload-file --Output OE-Sound.txt Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
 
-    curl --upload-file -Outfile Sound.txt Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
+    curl --upload-file --Output Sound.txt Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
 artifacts:
 - path: Release\MSG
 - path: Release\Model
