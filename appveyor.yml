@@ -7,9 +7,11 @@ install:
 
     echo -en "\n\n" |sudo apt install python3-pip
 
+
     sudo pip3 install SarcLib
 
     sudo pip3 install libyaz0
+
 build_script:
 - sh: >-
     python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
@@ -18,9 +20,9 @@ build_script:
 
     mkdir -p Release/MSG/TitleID/Romfs/Message
 
-    mkdir -p Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/OE-Sound/sub/TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir -p Release/Sound/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/Sound/sub/TitleID/Romfs/Sound/Resource/Stream
 
     mkdir -p Release/Model/TitleID/Romfs/Model
 
@@ -28,12 +30,26 @@ build_script:
 
     mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
-    mv 01003bc0000a0000/Romfs/Sound/Resource/Stream Release/Sound/TitleID/Romfs/Sound/Resource/Stream
+    mv 01003bc0000a0000/Romfs/Sound/Resource/Stream Release/Sound/sub/TitleID/Romfs/Sound/Resource
 
-    mv 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs/Model
+    mv 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs
 
-    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/TitleID/Romfs/Sound/Resource/Stream
+    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/sub/TitleID/Romfs/Sound/Resource
+
+    cd Release/OE-Sound/sub
+
+    zip -9  OE-Sound *
+
+    cd Release/Sound/sub
+
+    zip -9  Sound *
+
+    curl --upload-file -Outfile OE-Sound.txt Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
+
+    curl --upload-file -Outfile Sound.txt Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
 artifacts:
 - path: Release\MSG
 - path: Release\Model
+- path: Release\Sound\sub\Sound.txt
+- path: Release\Sound\sub\OE-Sound.txt
 deploy: off
