@@ -7,14 +7,14 @@ install:
 
     sudo apt install python2
     
-    sudo python2 -m pip install SarcLib
+    sudo python3 -m pip install SarcLib
 
-    sudo python2 -m pip install libyaz0
+    sudo python3 -m pip install libyaz0
 build_script:
 - sh: >-
-    python2 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
+    python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
 
-    python2 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
+    python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 
     mkdir -p Release/MSG/TitleID/Romfs/Message
 
