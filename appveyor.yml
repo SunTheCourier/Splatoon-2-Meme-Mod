@@ -44,9 +44,9 @@ build_script:
 
     zip -9 -r Sound *
 
-    curl --upload-file --Output OE-Sound.txt Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
+    curl --upload-file --Output OE-Sound.txt ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
 
-    curl --upload-file --Output Sound.txt Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
+    curl --upload-file --Output Sound.txt ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
 artifacts:
 - path: Release\MSG
 - path: Release\Model
