@@ -12,7 +12,7 @@ A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dia
 
 ****1.**** Install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/releases) or compile yourself from source and place game files under /atmosphere/titles/"TitleID"/ , where "TitleID" is the title id for your region. (You can find a list below. Octo Expansion uses a sperate title id to load files from the normal one. **Do not use if you do not own Octo Expansion.**)<br>
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/releases) or grab a bleeding edge build from [appveyor](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod) and place game files under /atmosphere/titles/"TitleID"/ and /atmosphere/titles/"OE-TitleID"/ , where "TitleID" and "OE-TitleID" is the title id for your region. (**Do not use if you do not own Octo Expansion.**)<br>
 
 
 
@@ -49,7 +49,7 @@ USfr
 
 ## Bugs
 
-If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-ROM-hack/issues).
+If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-hack/issues).
 
 Any issue pertaining to install should be sent over to the [Splatoon Modding Hub](https://discord.gg/5k4msvP).
 
@@ -61,44 +61,9 @@ Create a fork and edit the files, be as specific as you can when you send a PR!<
 You can find more info in [CONTRIBUTING.md](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/blob/master/CONTRIBUTING.md)
 
 
-## Compiling from source
+## AppVeyor
 
-Get Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod or build it yourself.
-
-
-### Building it Yourself
-
-****1.**** Run ``` git clone https://github.com/SunTheCourier/Splatoon-2-Meme-Mod.git ``` in the terminal.
-
-****2.**** Run ``` git clone https://github.com/aboood40091/SARC-Tool.git ``` inside /Splatoon-2-Meme-Mod/.
-
-****3.**** Install any dependencies you may need (ex: SarcLib or libyaz0)
-
-****3.**** Run ``` Compile.bat (title region) (text language)```
-
-Possible title regions:
-```
-USA
-JPN
-EUR
-```
-
-Possible text languages:
-```
-EUde
-EUen
-EUes
-EUfr
-EUit
-EUnl
-EUru
-JPja
-USes
-USen
-USfr
-```
-
-****4.**** The Compiled version should be in /Release/.
+Get bleeding edge Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod.
 
 
 ## Discord:

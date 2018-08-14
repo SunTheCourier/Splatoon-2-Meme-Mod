@@ -7,7 +7,6 @@ install:
 
     echo -en "\n\n" |sudo apt install python3-pip
 
-
     sudo pip3 install SarcLib
 
     sudo pip3 install libyaz0
@@ -20,11 +19,13 @@ build_script:
 
     mkdir -p Release/MSG/TitleID/Romfs/Message
 
-    mkdir -p Release/OE-Sound/sub/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir -p Release/Sound/sub/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
 
     mkdir -p Release/Model/TitleID/Romfs/Model
+
+    mkdir -p Release/OE-Model/OE-TitleID/Romfs/Model
 
     mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
 
@@ -34,7 +35,9 @@ build_script:
 
     mv 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs
 
-    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/sub/TitleID/Romfs/Sound/Resource
+    mv 01003bc0000a1065/Romfs/Model Release/OE-Model/OE-TitleID/Romfs
+
+    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource
 
     cd ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub
 
@@ -52,4 +55,5 @@ artifacts:
 - path: Release\Model
 - path: Release\Sound\sub\Sound.txt
 - path: Release\Sound\sub\OE-Sound.txt
+- path: Release\OE-Model
 deploy: off
