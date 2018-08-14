@@ -13,6 +13,10 @@ install:
 
 build_script:
 - sh: >-
+    rm 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release/*.lot
+
+    rm 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release/*.lot
+
     python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release
 
     python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
