@@ -19,7 +19,7 @@ build_script:
 
     mkdir -p Release/MSG/TitleID/Romfs/Message
 
-    mkdir -p Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/OE-Sound/sub/TitleID/Romfs/Sound/Resource/Stream
 
     mkdir -p Release/Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
 
