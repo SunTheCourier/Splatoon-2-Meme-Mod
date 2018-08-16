@@ -1,0 +1,821 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lot>
+	<lotEntries>
+		<lotEntry entry="Demo01_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0016" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo01_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0014" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0016" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0017" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0018" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo02_0019" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0014" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo03_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0014" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0016" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0017" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0018" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0019" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0020" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0021" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo04_0022" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo05_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo05_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo05_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo05_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo06_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo06_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo06_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo06_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo07_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo07_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo08_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo08_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo08_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_ConfirmStartDemo_cBoss0" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_ConfirmStartDemo_cBoss1" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_ConfirmStartDemo_cBoss2" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0014" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0016" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0017" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0018" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0019" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0020" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0021" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0022" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0023" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo09_0024" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo10_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo12_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo12_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo12_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0014" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0016" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0017" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0018" labelID="">
+			<notes>This might Look bad in game ¯\_(ツ)_/¯</notes>
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0019" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0020" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0021" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0022" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0023" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0024" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0025" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0026" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0027" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0028" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0029" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0030" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0031" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0032" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0033" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0034" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0035" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0036" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0037" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0038" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0039" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0040" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0041" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0042" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0043" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0044" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0045" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo13_0046" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo15_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo16_0000_R" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo16_0001_R" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo16_0002_R" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo17_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo17_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Demo17_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponSelectExplanation_SupplyPoint" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponSelectExplanation_SupplyPoint_00" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponSelectExplanation_MultiWeapon" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponSelectExplanation_MultiWeapon_00" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="TicketGateExplanation" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="NamacoExplanation" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_First" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_First_00" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_Girl" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_Boy" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_Face" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_Eye" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_Check_Girl" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question_Check_Boy" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question03" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Agent3Question04" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+	</lotEntries>
+</lot>
