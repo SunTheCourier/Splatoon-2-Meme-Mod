@@ -1,6 +1,10 @@
 # Splatoon 2 Meme Mod
 [![Build status](https://ci.appveyor.com/api/projects/status/4kug5sj28xg3c5t4?svg=true)](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod)
 
+## Discord:
+****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c<br>
+****Splatoon Modding Hub****: https://discord.gg/5k4msvP
+
 ## Contents!
 
 A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dialogue edits (W.I.P), Ika Radio/Squid Beatz track renames by the [Splatoon Modding Hub Discord](https://discordapp.com/invite/Msk4nSj), and an extensive MIDI conversion of the soundtrack.
@@ -64,11 +68,6 @@ You can find more info in [CONTRIBUTING.md](https://github.com/SunTheCourier/Spl
 ## AppVeyor
 
 Get bleeding edge Builds from https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod.
-
-
-## Discord:
-****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c<br>
-****Splatoon Modding Hub****: https://discord.gg/5k4msvP
 
 
 ## Credits
