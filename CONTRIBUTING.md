@@ -1,6 +1,3 @@
-# Splatoon 2 Mod Wiki
-We have a wiki open for you to contribute to by adding information on files and what each does. For example you can put information about what 'TalkNews.msbt' is for in the game.
-
 # Text editing
 when editing the text try to keep the same feelings (EX: Marina is happy, keep the text happy. We do not have the ability to edit the reactions just yet.)
 # Tools
