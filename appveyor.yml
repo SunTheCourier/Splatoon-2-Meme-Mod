@@ -25,7 +25,7 @@ build_script:
 
     mkdir -p Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir -p Release/Sound/sub/TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/Sound/sub/TitleID/Romfs
 
     mkdir -p Release/Model/TitleID/Romfs/Model
 
