@@ -6,10 +6,9 @@
 ****Splatoon Modding Hub****: https://discord.gg/5k4msvP
 
 ## Contents!
+(Note, the mod is a work in progress and still has stuff to add onto.) 
 
-A few story mode edits for both Octo Expansion and Octo Canyon (W.I.P), news dialogue edits (W.I.P), Ika Radio/Squid Beatz track renames by the [Splatoon Modding Hub Discord](https://discordapp.com/invite/Msk4nSj), and an extensive MIDI conversion of the soundtrack.
-
-
+An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://discordapp.com/invite/Msk4nSj), the Meme Mod is the direct result of vulgarity, MIDIs, memes, and squid kids thrown into a blender. With still-in-progress text edits, an extensive MIDI soundtrack conversion, hilarious dialogue, and fun, fun innuendos, the Meme Mod turns Splatoon 2 upside down. Download today! Or tomorrow! Or next week!
 ## How to Install
 
 #### DISCLAIMER: WE DO NOT TAKE ANY RESPONSIBILITY FOR WHAT HAPPENS TO YOUR SWITCH. PLEASE ONLY USE THIS MOD IF YOU KNOW WHAT YOU ARE DOING. IF YOU DO NOT KNOW WHAT YOU ARE DOING PLEASE WAIT UNTIL LAYEREDFS IS COMPLETED. USING LAYEREDFS IN ITS CURRENT STATE CAN INCREASE CHANCES OF A BAN.
@@ -55,7 +54,7 @@ USfr
 
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-hack/issues).
 
-Any issue pertaining to install should be sent over to the [Splatoon Modding Hub](https://discord.gg/5k4msvP).
+Any issue pertaining to install should be sent over to the [Splatoon Modding Hub](https://discord.gg/5k4msvP). Questions regarding the mod/bug reports can also be directed to the Meme Mod Development Discord: https://discord.gg/QwhsR7c<br>
 
 
 ## How to Contribute
