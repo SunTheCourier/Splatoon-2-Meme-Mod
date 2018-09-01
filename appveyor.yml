@@ -21,7 +21,7 @@ build_script:
 
     python3 SARC-Tool/main.py -compress -little 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release
 
-    mkdir -p Release/MSG/TitleID/Romfs/Message
+    mkdir -p Release/Message/TitleID/Romfs/Message
 
     mkdir -p Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
 
@@ -31,9 +31,19 @@ build_script:
 
     mkdir -p Release/OE-Model/OE-TitleID/Romfs/Model
 
-    mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
+    cp README.md Release/Message/README.md
 
-    mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/MSG/TitleID/Romfs/Message/CommonMsg_USen.release.szs
+    cp README.md Release/OE-Model/README.md
+
+    cp README.md Release/Model/TitleID/Romfs/README.md
+
+    cp README.md Release/OE-Sound/sub/README.md
+
+    cp README.md Release/Sound/sub/README.md
+
+    mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
+
+    mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/CommonMsg_USen.release
 
     mv 01003bc0000a0000/Romfs/Sound Release/Sound/sub/TitleID/Romfs/
 
@@ -55,7 +65,7 @@ build_script:
 
     curl --Output Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
 artifacts:
-- path: Release\MSG
+- path: Release\Message
 - path: Release\Model
 - path: Release\Sound\sub\Sound.txt
 - path: Release\Sound\sub\OE-Sound.txt
