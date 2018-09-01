@@ -43,7 +43,7 @@ build_script:
 
     mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
 
-    mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/CommonMsg_USen.release
+    mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
     mv 01003bc0000a0000/Romfs/Sound Release/Sound/sub/TitleID/Romfs/
 
