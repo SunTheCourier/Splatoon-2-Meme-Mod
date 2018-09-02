@@ -60,6 +60,7 @@ Any issue pertaining to install should be sent over to the [Splatoon Modding Hub
 ## How to Contribute
 
 Create a fork and edit the files, be as specific as you can when you send a PR!<br>
+You can also make a suggestion here for News text: https://goo.gl/forms/vgXgnCjbioBjmDUJ3<br>
 
 You can find more info in [CONTRIBUTING.md](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/blob/master/CONTRIBUTING.md)
 
