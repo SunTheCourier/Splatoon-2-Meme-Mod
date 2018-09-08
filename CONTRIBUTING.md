@@ -1,5 +1,9 @@
 # Text editing
 when editing the text try to keep the same feelings (EX: Marina is happy, keep the text happy. We do not have the ability to edit the reactions just yet.)
+News MSBTs:
+XXXX_XX_0000 is Pearl
+XXXX_XX_0001 is Marina
+![News](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/blob/master/News.png)
 # Tools
 
 ****SARC-tool (SZS Repacker and Extractor)****: https://github.com/aboood40091/SARC-Tool

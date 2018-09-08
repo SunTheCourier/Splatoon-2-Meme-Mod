@@ -54,6 +54,8 @@ USfr
 
 If the audio doesn't sound looped properly or doesn't play properly or if text is unreadable, please report it in the [issue tracker](https://github.com/SunTheCourier/Splatoon-2-Meme-hack/issues).
 
+You should also report incorrect reactions (e.g. Marina says something happy but Marina is not happy) in the news!
+
 Any issue pertaining to install should be sent over to the [Splatoon Modding Hub](https://discord.gg/5k4msvP). Questions regarding the mod can also be directed to the [Meme Mod Development Discord](https://discord.gg/QwhsR7c)<br>
 
 
