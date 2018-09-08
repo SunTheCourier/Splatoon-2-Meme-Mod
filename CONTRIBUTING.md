@@ -1,4 +1,5 @@
 # Text editing
+## TalkNews
 when editing the text try to keep the same feelings (EX: Marina is happy, keep the text happy. We do not have the ability to edit the reactions just yet.)<br>
 News MSBTs:<br>
 XXXX_XX_0000 is Pearl<br>

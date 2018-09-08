@@ -30,7 +30,7 @@ An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://disco
 
 Please note that this pack has been done in US English, so filenames will need to be changed for other regions.
 
-****2b.**** Replace USen at the end of CommonMsg_USen.release.szs and LayoutMsg_USen.release.szs to your language. You can find a list below of available. (This will not change what language this mod is displayed in.)<br>
+****2b.**** Replace `USen` at the end of `CommonMsg_USen.release.szs` and `LayoutMsg_USen.release.szs` to your language. You can find a list below of available. (This will not change what language this mod is displayed in.)<br>
 
 ```
 EUde
