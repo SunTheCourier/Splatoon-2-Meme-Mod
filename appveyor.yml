@@ -55,19 +55,17 @@ build_script:
 
     cd ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub
 
-<<<<<<< HEAD
     7z a -t7z OE-Model.7z ${APPVEYOR_BUILD_FOLDER}/Release/OE-Model
 
     7z a -t7z Model.7z ${APPVEYOR_BUILD_FOLDER}/Release/Model
 
     7z a -t7z Message.7z ${APPVEYOR_BUILD_FOLDER}/Release/Message
-=======
+
     zip -9 -r OE-Sound *
 
     cd ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub
 
     zip -9 -r Sound *
->>>>>>> parent of 2eb430e... 7z
 
     curl --Output OE-Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
 
