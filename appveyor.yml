@@ -7,6 +7,8 @@ install:
 
     echo -en "\n\n" |sudo apt install python3-pip
 
+    sudo apt-get install p7zip-full p7zip-rar
+
     sudo pip3 install SarcLib
 
     sudo pip3 install libyaz0
@@ -23,9 +25,9 @@ build_script:
 
     mkdir -p Release/Message/TitleID/Romfs/Message
 
-    mkdir -p Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource/Stream
+    mkdir -p Release/OE-Sound/OE-TitleID/Romfs/Sound/Resource/Stream
 
-    mkdir -p Release/Sound/sub/TitleID/Romfs
+    mkdir -p Release/Sound/TitleID/Romfs
 
     mkdir -p Release/Model/TitleID/Romfs/Model
 
@@ -37,37 +39,39 @@ build_script:
 
     cp README.md Release/Model/TitleID/Romfs/README.md
 
-    cp README.md Release/OE-Sound/sub/README.md
+    cp README.md Release/OE-Sound/README.md
 
-    cp README.md Release/Sound/sub/README.md
+    cp README.md Release/Sound/README.md
 
     mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
 
     mv 01003bc0000a0000/Romfs/Message/CommonMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/CommonMsg_USen.release.szs
 
-    mv 01003bc0000a0000/Romfs/Sound Release/Sound/sub/TitleID/Romfs/
+    mv 01003bc0000a0000/Romfs/Sound Release/Sound/TitleID/Romfs/
 
     mv 01003bc0000a0000/Romfs/Model Release/Model/TitleID/Romfs
 
     mv 01003bc0000a1065/Romfs/Model Release/OE-Model/OE-TitleID/Romfs
 
-    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/sub/OE-TitleID/Romfs/Sound/Resource
+    mv 01003bc0000a1065/Romfs/Sound/Resource/Stream Release/OE-Sound/OE-TitleID/Romfs/Sound/Resource
 
-    cd ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub
+    7z a -t7z OE-Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound
 
-    zip -9 -r OE-Sound *
+    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/Sound
 
-    cd ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub
+    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/OE-Model
 
-    zip -9 -r Sound *
+    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/Model
 
-    curl --Output OE-Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub/OE-Sound.zip https://transfer.sh/OE-Sound.zip
+    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/Message
 
-    curl --Output Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub/Sound.zip https://transfer.sh/Sound.zip
+    curl --Output OE-Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/OE-Sound.7z https://transfer.sh/OE-Sound.zip
+
+    curl --Output Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/Sound/Sound.7z https://transfer.sh/Sound.zip
 artifacts:
-- path: Release\Message
-- path: Release\Model
-- path: Release\Sound\sub\Sound.txt
-- path: Release\Sound\sub\OE-Sound.txt
-- path: Release\OE-Model
+- path: Release\Message.7z
+- path: Release\Model.7z
+- path: Release\Sound\Sound.txt
+- path: Release\Sound\OE-Sound.txt
+- path: Release\OE-Model.7z
 deploy: off
