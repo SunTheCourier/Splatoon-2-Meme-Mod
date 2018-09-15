@@ -59,11 +59,11 @@ build_script:
 
     7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/Sound
 
-    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/OE-Model
+    7z a -t7z OE-Model.7z ${APPVEYOR_BUILD_FOLDER}/Release/OE-Model
 
-    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/Model
+    7z a -t7z Model.7z ${APPVEYOR_BUILD_FOLDER}/Release/Model
 
-    7z a -t7z Sound.7z ${APPVEYOR_BUILD_FOLDER}/Release/Message
+    7z a -t7z Message.7z ${APPVEYOR_BUILD_FOLDER}/Release/Message
 
     curl --Output OE-Sound.txt --upload-file ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/OE-Sound.7z https://transfer.sh/OE-Sound.zip
 
