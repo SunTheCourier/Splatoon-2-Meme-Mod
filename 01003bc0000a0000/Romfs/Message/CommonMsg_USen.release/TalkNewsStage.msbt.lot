@@ -438,7 +438,7 @@
 			<lotSubEntries />
 		</lotEntry>
 		<lotEntry entry="Kawa_02_0001" labelID="">
-			<notes />
+			<notes>this works</notes>
 			<lotSubEntries />
 		</lotEntry>
 		<lotEntry entry="Kawa_03_0000" labelID="">
