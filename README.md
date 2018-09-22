@@ -15,7 +15,7 @@ An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://disco
 
 ****1.**** Follow [this](https://guide.sdsetup.com/en/) guide to install LayeredFS.<br>
 
-****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/releases) or grab a bleeding edge build from [appveyor](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod)
+****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/releases) or grab a bleeding edge build from [appveyor](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod).
 
 Please note that this pack has been done in US English, so filenames will need to be changed for other regions.
 
