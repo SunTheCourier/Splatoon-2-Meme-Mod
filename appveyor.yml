@@ -55,12 +55,6 @@ build_script:
 
     cd ${APPVEYOR_BUILD_FOLDER}/Release/OE-Sound/sub
 
-    7z a -t7z OE-Model.7z ${APPVEYOR_BUILD_FOLDER}/Release/OE-Model
-
-    7z a -t7z Model.7z ${APPVEYOR_BUILD_FOLDER}/Release/Model
-
-    7z a -t7z Message.7z ${APPVEYOR_BUILD_FOLDER}/Release/Message
-
     zip -9 -r OE-Sound *
 
     cd ${APPVEYOR_BUILD_FOLDER}/Release/Sound/sub
