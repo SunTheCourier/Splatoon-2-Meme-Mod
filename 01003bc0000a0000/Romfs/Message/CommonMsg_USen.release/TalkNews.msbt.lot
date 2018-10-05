@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lot>
+	<lotEntries>
+		<lotEntry entry="Coop_00_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_00_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_01_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_01_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_02_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_02_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_03_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_03_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_04_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Coop_04_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Ending_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Ending_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Ending_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="EndingFest_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="EndingFest_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0000_Eve" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestAnnounceCmn_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_FinalResult_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_FinalResult_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_FinalResult_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_FinalResult_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_FinalResult_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_FinalResult_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Jarajara_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Jarajara_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Jarajara_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Jarajara_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Start_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Start_0000_Eve" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Start_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Start_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_Start_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRate_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRate_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRateAlpha_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRateAlpha_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRateBravo_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRateBravo_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRateEnd_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_VoteRateEnd_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_WinningRate_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FestResult_WinningRate_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FirstTime_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FixGame_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FixGame_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FixGame_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="FixGame_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="GachiRuleUnlock_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="GachiRuleUnlock_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="GachiRuleUnlockEnd_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="GachiRuleUnlockEnd_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="GearUnlock_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="GearUnlockEnd_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0013" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0014" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0015" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0016" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0017" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="MissionEnding_0018" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0004" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0005" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0006" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0007" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0008" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0009" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0010" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0011" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OctaIntro_0012" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Opening_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="Opening_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OpeningFest_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OpeningFest_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OpeningFestEnd_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OpeningFestEnd_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OpeningFestEnd_0002" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="OpeningFestEnd_0003" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageFest_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageFestSpecial_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageFestSpecial_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageGachi_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageLeague_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageRegular_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageUnlock_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageUnlock_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageUnlockEnd_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="StageUnlockEnd_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="UpdateInfo_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="UpdateInfo_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponUnlock_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponUnlockEnd_0000" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="WeaponUnlockEnd_0001" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+	</lotEntries>
+</lot>
