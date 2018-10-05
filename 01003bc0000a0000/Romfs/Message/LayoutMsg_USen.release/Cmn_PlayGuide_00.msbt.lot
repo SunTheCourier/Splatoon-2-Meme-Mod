@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lot>
 	<lotEntries>
-		<lotEntry entry="AquaBall" labelID="">
+		<lotEntry entry="SuperMissile" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="RainCloud" labelID="">
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
@@ -9,27 +13,27 @@
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
-		<lotEntry entry="LauncherCurling" labelID="">
-			<notes>https://overwatch.gamepedia.com/Tracer/Quotes kek</notes>
-			<lotSubEntries />
-		</lotEntry>
-		<lotEntry entry="LauncherQuick" labelID="">
-			<notes>https://overwatch.gamepedia.com/Tracer/Quotes kek</notes>
-			<lotSubEntries />
-		</lotEntry>
-		<lotEntry entry="LauncherRobo" labelID="">
-			<notes>https://overwatch.gamepedia.com/Tracer/Quotes kek</notes>
-			<lotSubEntries />
-		</lotEntry>
 		<lotEntry entry="LauncherSplash" labelID="">
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
 		<lotEntry entry="LauncherSuction" labelID="">
-			<notes>https://overwatch.gamepedia.com/Tracer/Quotes kek</notes>
+			<notes />
 			<lotSubEntries />
 		</lotEntry>
-		<lotEntry entry="RainCloud" labelID="">
+		<lotEntry entry="LauncherQuick" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="LauncherCurling" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="LauncherRobo" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="AquaBall" labelID="">
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
@@ -37,7 +41,7 @@
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
-		<lotEntry entry="SuperMissile" labelID="">
+		<lotEntry entry="WaterCutter" labelID="">
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
@@ -45,7 +49,15 @@
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
-		<lotEntry entry="WaterCutter" labelID="">
+		<lotEntry entry="SuperBall" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="SuperBallNice" labelID="">
+			<notes />
+			<lotSubEntries />
+		</lotEntry>
+		<lotEntry entry="SuperBallNiceSelf" labelID="">
 			<notes />
 			<lotSubEntries />
 		</lotEntry>
