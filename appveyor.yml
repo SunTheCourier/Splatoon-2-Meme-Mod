@@ -31,7 +31,7 @@ build_script:
 
     cp README.md Release/OE-Model/README.md
 
-    cp README.md Release/Model/TitleID/Romfs/README.md
+    cp README.md Release/Model/README.md
 
     mv 01003bc0000a0000/Romfs/Message/LayoutMsg_USen.release.szs Release/Message/TitleID/Romfs/Message/LayoutMsg_USen.release.szs
 
