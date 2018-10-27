@@ -1,11 +1,13 @@
 version: AppVeyor build {build}
-shallow_clone: true
+shallow_clone: false
 image: Ubuntu
 install:
 - sh: >-
     git clone https://github.com/aboood40091/SARC-Tool.git
 
     echo -en "\n\n" |sudo apt install python3-pip
+    
+    echo -en "\n\n" |sudo apt install mono-devel
 
     sudo pip3 install SarcLib
 
@@ -13,6 +15,10 @@ install:
 
 build_script:
 - sh: >-
+    COMMIT_ID="$(git rev-parse --short HEAD)"
+
+    mono Tools/MSBT-CMD.exe Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt T_Copyright_00 "Splatoon 2 Meme Mod Commit ${COMMIT_ID}"
+    
     rm Splatoon/Romfs/Message/CommonMsg.release/*.lot
 
     rm Splatoon/Romfs/Message/LayoutMsg.release/*.lot
