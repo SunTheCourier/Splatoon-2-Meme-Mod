@@ -7,7 +7,7 @@ install:
 
     echo -en "\n\n" |sudo apt install python3-pip
     
-    echo -en "\n\n" |sudo apt install wine64
+    echo -en "\n\n" |sudo apt install wine-stable
 
     sudo pip3 install SarcLib
 
@@ -17,7 +17,7 @@ build_script:
 - sh: >-
     COMMIT_ID="$(git rev-parse HEAD)"
 
-    wine Tools/MSBT-CMD.exe Splatoon-2-Meme-Mod/Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt T_Copyright_00 "Splatoon 2 Meme Mod Commit {COMMIT_ID}"
+    wine64 Tools/MSBT-CMD.exe Splatoon-2-Meme-Mod/Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt T_Copyright_00 "Splatoon 2 Meme Mod Commit {COMMIT_ID}"
     
     rm Splatoon-2-Meme-Mod/Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt.bak
     
