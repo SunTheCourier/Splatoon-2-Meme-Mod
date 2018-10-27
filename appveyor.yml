@@ -17,9 +17,9 @@ build_script:
 - sh: >-
     COMMIT_ID="$(git rev-parse HEAD)"
 
-    mono Tools/MSBT-CMD.exe Splatoon-2-Meme-Mod/Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt T_Copyright_00 "Splatoon 2 Meme Mod Commit {COMMIT_ID}"
+    mono Tools/MSBT-CMD.exe Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt T_Copyright_00 "Splatoon 2 Meme Mod Commit {COMMIT_ID}"
     
-    rm Splatoon-2-Meme-Mod/Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt.bak
+    rm Splatoon/Romfs/Message/LayoutMsg.release/Plz_Title_00.msbt.bak
     
     rm Splatoon/Romfs/Message/CommonMsg.release/*.lot
 
