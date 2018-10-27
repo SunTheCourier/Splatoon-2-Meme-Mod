@@ -1,5 +1,5 @@
 version: AppVeyor build {build}
-shallow_clone: true
+shallow_clone: false
 image: Ubuntu
 install:
 - sh: >-
@@ -7,9 +7,7 @@ install:
 
     echo -en "\n\n" |sudo apt install python3-pip
     
-    echo -en "\n\n" |sudo apt install wine-stable
-    
-    sudo apt intall wine
+    echo -en "\n\n" |sudo apt install wine64
 
     sudo pip3 install SarcLib
 
