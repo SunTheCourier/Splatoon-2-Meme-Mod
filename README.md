@@ -1,6 +1,6 @@
 # Splatoon 2 Meme Mod
+[![Sun's ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/X8X0LUTH)<br>
 [![Build status](https://ci.appveyor.com/api/projects/status/4kug5sj28xg3c5t4?svg=true)](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod)
-[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/X8X0LUTH)
 
 ## Discord:
 ****Splatoon 2 Meme Mod Development****: https://discord.gg/QwhsR7c<br>
