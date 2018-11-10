@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/X8X0LUTH)
 # Splatoon 2 Meme Mod
 [![Build status](https://ci.appveyor.com/api/projects/status/4kug5sj28xg3c5t4?svg=true)](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod)
 
