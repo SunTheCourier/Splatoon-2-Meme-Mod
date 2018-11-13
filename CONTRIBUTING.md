@@ -11,7 +11,7 @@ XXXX_XX_0001 is Marina<br>
 
 ****Kuriimu (Text Editor)****: https://github.com/IcySon55/Kuriimu
 
-****Modified Looping Audio Converter for Switch BFSTM's****: https://github.com/shadowninja108/LoopingAudioConverter
+****Modified Looping Audio Converter for Switch BFSTMs****: https://github.com/eliboa/LoopingAudioConverter/releases
 
 ****Foobar (Audio Player)****: https://www.foobar2000.org/download
 
