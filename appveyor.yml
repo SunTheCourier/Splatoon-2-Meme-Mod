@@ -6,8 +6,6 @@ install:
     git clone https://github.com/aboood40091/SARC-Tool.git
 
     echo -en "\n\n" |sudo apt install python3-pip
-    
-    echo -en "\n\n" |sudo apt install mono-devel
 
     sudo pip3 install SarcLib
 
