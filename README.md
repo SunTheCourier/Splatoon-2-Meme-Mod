@@ -9,7 +9,7 @@
 ## Contents!
 (Note, the mod is a work in progress and still has stuff to add onto.)
 
-An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://discordapp.com/invite/Msk4nSj), the Meme Mod is the direct result of vulgarity, MIDIs, memes, and squid kids thrown into a blender. With still-in-progress text edits, an extensive MIDI soundtrack conversion, hilarious dialogue, and fun innuendos, the Meme Mod turns Splatoon 2 upside down. Download today! Or tomorrow! Or next week!
+An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://discord.gg/5k4msvP), the Meme Mod is the direct result of vulgarity, MIDIs, memes, and squid kids thrown into a blender. With still-in-progress text edits, an extensive MIDI soundtrack conversion, hilarious dialogue, and fun innuendos, the Meme Mod turns Splatoon 2 upside down. Download today! Or tomorrow! Or next week!
 ## How to Install
 
 #### DISCLAIMER: WE DO NOT TAKE ANY RESPONSIBILITY FOR WHAT HAPPENS TO YOUR SWITCH FROM USING THIS MOD.
