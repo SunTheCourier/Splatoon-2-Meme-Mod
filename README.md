@@ -9,12 +9,12 @@
 ## Contents!
 (Note, the mod is a work in progress and still has stuff to add onto.)
 
-An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://discord.gg/5k4msvP), the Meme Mod is the direct result of vulgarity, MIDIs, memes, and squid kids thrown into a blender. With still-in-progress text edits, an extensive MIDI soundtrack conversion, hilarious dialogue, and fun innuendos, the Meme Mod turns Splatoon 2 upside down. Download today! Or tomorrow! Or next week!
+An idea birthed in the heart of the [Splatoon Modding Hub Discord](https://discord.gg/5k4msvP), the Meme Mod is the direct result of vulgarity, memes, and squid kids thrown into a blender. With still-in-progress text edits, hilarious dialogue, and fun innuendos, the Meme Mod turns Splatoon 2 upside down. Download today! Or tomorrow! Or next week!
 ## How to Install
 
 #### DISCLAIMER: WE DO NOT TAKE ANY RESPONSIBILITY FOR WHAT HAPPENS TO YOUR SWITCH FROM USING THIS MOD.
 
-****1.**** Follow [this](https://guide.sdsetup.com/en/) guide to install LayeredFS.<br>
+****1.**** Follow [this](https://guide.sdsetup.com) guide to install Atmosphere.<br>
 
 ****2.**** Download latest from [releases](https://github.com/SunTheCourier/Splatoon-2-Meme-Mod/releases) or grab a bleeding edge build from [appveyor](https://ci.appveyor.com/project/SunTheCourier/splatoon-2-meme-mod).
 
@@ -38,14 +38,14 @@ USfr
 
 ****3.**** Place game files under /atmosphere/titles/"TitleID"/ and /atmosphere/titles/"OE-TitleID"/ , where "TitleID" and "OE-TitleID" is the title id for your region. (**Do not use if you do not own Octo Expansion.**)<br>
 
-
-    JPN: 01003c700009c000
-    OE JPN: 01003c700009d065
-    EUR: 0100f8f0000a2000
-    OE EUR: 0100f8f0000a3065
-    USA: 01003bc0000a0000
-    OE USA: 01003bc0000a1065
-
+```
+JPN: 01003c700009c000
+OE JPN: 01003c700009d065
+EUR: 0100f8f0000a2000
+OE EUR: 0100f8f0000a3065
+USA: 01003bc0000a0000
+OE USA: 01003bc0000a1065
+```
 
 ****3.**** ????
 
